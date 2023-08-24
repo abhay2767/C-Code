@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	int marks[4];
+	int marks[5];
 	int i;
 	for(i=0;i<5;i++)
 	{
